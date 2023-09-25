@@ -8,7 +8,7 @@ Link do site: https://wilton-monteiro.github.io/site/
 
 Temos três icones clicáveis:
 Denúncia: O Usuário será encaminhado para outra página onde poderá clicar no botão "Denuncie pelo whats app clicando aqui",
-após o clique o usuário será encaminhado diretamente para o whats app da escuta especializada.
+após o clique o usuário será encaminhado diretamente para o whats app do Disque Direitos Humanos.
 
 Ciclo da Violência Doméstica: O Usuário é derecionado, dentro da mesma página, para a sessão Ciclo da Violência Doméstica.
 
