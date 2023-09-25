@@ -10,7 +10,13 @@ Temos três icones clicáveis:
 Denúncia: O Usuário será encaminhado para outra página onde poderá clicar no botão "Denuncie pelo whats app clicando aqui",
 após o clique o usuário será encaminhado diretamente para o whats app da escuta especializada.
 
+Ciclo da Violência Doméstica: O Usuário é derecionado, dentro da mesma página, para a sessão Ciclo da Violência Doméstica.
+
+
+Rede de Apoio: O Usuário é derecionado, dentro da mesma página, para a sessão Rede de Apoio.
+
 ### 📋 Pré-requisitos
+
 
 O usuário precisa apenas possuir um dispositivo com acesso à internet.
 
