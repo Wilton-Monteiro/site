@@ -27,8 +27,6 @@ Ferramentas usadas na criação:
 
 Para a construição deste site foi usada a IDE VSCODE sob influência de HTML e CSS.
 
-os de solicitação.
-
 ## 📌 Versão
 
 Última versão data: 25/09/2023
